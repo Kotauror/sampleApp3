@@ -2,4 +2,4 @@
 
 yum update -y
 yum install ruby
-gem2.4 install sinatra
+gem install sinatra
